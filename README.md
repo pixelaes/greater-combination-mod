@@ -1,7 +1,7 @@
 # Greater Combination Mod
- The Ultimate Victoria II Mod 
+## The Ultimate Victoria II Mod 
 
-The Greater Combination Mod (GCM) is a mod for Victoria II that aims to be as historically accurate as possible, whilst also being fun and a unique experience for the player. As our (not-so-serious) motto states: "Every house a province, every man a pop, every thought a +1 prestige event."
+The Greater Combination Mod (GCM) is a mod for Victoria II that aims to be as historically accurate as possible - both for specific events and overall trends - whilst also being dynamic and allowing for many different outcomes. As our (not-so-serious) motto states: "Every house a province, every man a pop, every thought a +1 prestige event."
 
 Current projects include:
 - Russia Rework: A total overhaul of Russia that will let Russia unite the Slavs, annihilate Britain in the Great Game, and build a grand Pacific empire - or fail in all three.
